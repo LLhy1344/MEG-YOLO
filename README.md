@@ -6,7 +6,7 @@ The code is associated with the manuscript:
 
 > Title: **Boundary- and Context-Aware Detection of Low-Contrast Adrenal Structures in Non-Contrast CT for Primary Aldosteronism Imaging Review**  
 > Authors: Hongyu Lv, Teng Ran, Guoliang Wang, Nanfang Li, Liang Yuan  
-> Journal: *Under Review*  
+> Journal: The Visual Computer (Under Review)  
 > Year: 2026
 
 MEG-YOLO is designed for **PA-related adrenal CT image review support**. The model performs slice-level localization of the left and right adrenal glands and provides side-specific normal/abnormal reference-status prompts. It is not intended to replace adrenal venous sampling (AVS) or to perform direct patient-level functional lateralisation.
@@ -15,13 +15,13 @@ MEG-YOLO is designed for **PA-related adrenal CT image review support**. The mod
 
 ## Related Manuscript
 
-This code repository is directly related to the manuscript currently under review:
+If you use this code in your research, please cite our paper:
 
 ```bibtex
 @article{lv2026megyolo,
   title={Boundary- and Context-Aware Detection of Low-Contrast Adrenal Structures in Non-Contrast CT for Primary Aldosteronism Imaging Review},
   author={Lv, Hongyu and Ran, Teng and Wang, Guoliang and Li, Nanfang and Yuan, Liang},
-  journal={Under Review},
+  journal=The Visual Computer (Under Review),
   year={2026}
 }
 
