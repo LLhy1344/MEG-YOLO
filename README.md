@@ -25,7 +25,10 @@ This code repository is directly related to the manuscript currently under revie
   year={2026}
 }
 
-Code and Data Availability
+
+
+
+## Code and Data Availability
 Code: Available in this repository.
 Data: The original clinical CT dataset cannot be publicly shared because it contains private medical imaging data.
 Benchmark protocol: The dataset construction, annotation rules, training/validation protocol, evaluation metrics, and key configuration files are provided to support reproducibility.
