@@ -90,9 +90,8 @@ This module helps distinguish adrenal regions from adjacent vessels, renal margi
 
 ---
 
-## Dataset
-
-The internal dataset was retrospectively collected from the People's Hospital of Xinjiang Uygur Autonomous Region between January 2024 and December 2024.
+## Availability of data and materials
+The datasets used or analyzed during the current study are available from the corresponding author on reasonable request.
 
 
 
